@@ -1,0 +1,90 @@
+Airpots: ATLANTA (ATL)
+Number of flights: 2
+
+Airpots: BEIJING (PEK)
+Number of flights: 1
+
+Airpots: LONDON (LHR)
+Number of flights: 1
+
+Airpots: CHICAGO (ORD)
+Number of flights: 2
+
+Airpots: TOKYO (HND)
+Number of flights: 1
+
+Airpots: LOS ANGELES (LAX)
+Number of flights: 0
+
+Airpots: PARIS (CDG)
+Number of flights: 1
+
+Airpots: DALLAS/FORT WORTH (DFW)
+Number of flights: 1
+
+Airpots: FRANKFURT (FRA)
+Number of flights: 0
+
+Airpots: HONG KONG (HKG)
+Number of flights: 0
+
+Airpots: DENVER (DEN)
+Number of flights: 3
+
+Airpots: DUBAI (DXB)
+Number of flights: 0
+
+Airpots: JAKARTA (CGK)
+Number of flights: 2
+
+Airpots: AMSTERDAM (AMS)
+Number of flights: 1
+
+Airpots: MADRID (MAD)
+Number of flights: 1
+
+Airpots: BANGKOK (BKK)
+Number of flights: 1
+
+Airpots: NEW YORK (JFK)
+Number of flights: 1
+
+Airpots: SINGAPORE (SIN)
+Number of flights: 0
+
+Airpots: GUANGZHOU (CAN)
+Number of flights: 2
+
+Airpots: LAS VEGAS (LAS)
+Number of flights: 1
+
+Airpots: SHANGHAI (PVG)
+Number of flights: 1
+
+Airpots: SAN FRANCISCO (SFO)
+Number of flights: 0
+
+Airpots: PHOENIX (PHX)
+Number of flights: 0
+
+Airpots: HOUSTON (IAH)
+Number of flights: 2
+
+Airpots: CHARLOTTE (CLT)
+Number of flights: 1
+
+Airpots: MIAMI (MIA)
+Number of flights: 1
+
+Airpots: MUNICH (MUC)
+Number of flights: 1
+
+Airpots: KUALA LUMPUR (KUL)
+Number of flights: 2
+
+Airpots: ROME (FCO)
+Number of flights: 1
+
+Airpots: ISTANBUL (IST)
+Number of flights: 0
+
